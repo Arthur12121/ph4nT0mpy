@@ -2,7 +2,7 @@ this my secound malware !!!(FOR Educational)!!!
 
 NOTE YOU MUST DOWNLOAD CLOUDFLARED TUNNEL SO YOU CAN BE ABLE TO CONNECT WITH THE MALWARE 
 how to setup?
-1-open the c2netospy.py and set the web_hook http://127.0.0.1:5000 or wherever port and dont close it you must keep it one
+1-open the c2netospy.py and set the web_hook http://127.0.0.1:5000 or wherever port and dont close it you must keep it on
 
 2- open cmd and connect the http://127.0.0.1:5000 with CLOUDFLARED tunnel by command in cmd ==>  Cloudflared.exe tunnel --url http://127.0.0.1:5000
 when you type enter you will receive URL 
